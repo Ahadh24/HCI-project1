@@ -21,4 +21,6 @@ The application is built using Python's `tkinter` library, providing an easy-to-
    - Function: Displays a warning message box for emergency assistance
 
 **Running the Application**
-
+Open Git Bash.
+Change the current working directory to the location where you want the cloned directory
+Type git clone https://github.com/Ahadh24/HCI-project1.git
