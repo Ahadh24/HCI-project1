@@ -19,3 +19,6 @@ The application is built using Python's `tkinter` library, providing an easy-to-
    - Quick access to emergency calls for immediate help
    - Button: `Emergency Assistance`
    - Function: Displays a warning message box for emergency assistance
+
+**Running the Application**
+
